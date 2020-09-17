@@ -1,0 +1,9 @@
+1. type NUL > README.md
+2. nano README.md
+3. #### COMP3104-Developer Operations
+4. ctrl+o to save file.
+5. git add -A
+6. git commit -m "added header for readme file"
+7. git remote add origin https://github.com/HyunJun-Yoon/comp3104.git
+   git branch -M master
+   git push -u origin master
